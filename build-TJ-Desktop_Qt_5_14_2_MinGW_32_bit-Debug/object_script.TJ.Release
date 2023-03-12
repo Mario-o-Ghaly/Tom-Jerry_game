@@ -1,0 +1,15 @@
+release/cheese.o
+release/functions.o
+release/home.o
+release/jerry.o
+release/main.o
+release/mainwindow.o
+release/portal.o
+release/power.o
+release/score.o
+release/tom.o
+release/qrc_res.o
+release/moc_jerry.o
+release/moc_mainwindow.o
+release/moc_portal.o
+release/moc_tom.o
