@@ -1,6 +1,6 @@
 # Tom&Jerry_game
 
-### Introduction
+## Introduction
 
 Logic functions is the basis of the field of computer science. To increase its effeciency in terms of time and cost, minimizing these logic functions is a must. There are a lot of tools and algorithms that handle the task of logic functions minimization. Quine McCluskey Algorithm has been one of the most prominent algorithms in minimization of logic functions. In this project, we attempted to implement this algorithm using C++ Programing language.
 
